@@ -1,0 +1,33 @@
+body {
+    background-position:center;
+    background-size:cover;
+}
+
+#hubBtns {
+    font-size: 19px;
+    width: 207px;
+    border-radius: 15px;
+}
+
+#detectionH1 {
+    width:100%;
+    font-size: 25px;
+    margin-top:0;
+    border-radius:0;
+    box-shadow: -5px 5px 5px grey;
+}
+
+canvas {
+    margin-top:65px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: skyblue;
+    border-width: 3px;
+    box-shadow: -5px 5px 5px grey;
+
+}
+
+.status {
+     font-size: 20px;
+     box-shadow: -5px 5px 5px grey;
+}
